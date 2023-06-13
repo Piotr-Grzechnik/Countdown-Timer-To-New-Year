@@ -10,7 +10,7 @@ html {
 .body {
     font-family: "Poppins", sans-serif;
     margin: 0;
-    background-image: url("Img/Snow.jpg");
+    background-image: url("./Img/Snow.jpg");
     background-size: cover;
     min-height: 100vh;
     background-position: center center;
